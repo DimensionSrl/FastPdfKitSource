@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:docset="http://developer.apple.com/rss/docset_extensions" xml:lang="en">
+    <id>http://doc.fastpdfkit.com/docset.atom/20120104130728</id>
+    <title type="text">FastPdfKit Documentation</title>
+    <rights>Copyright © 2012 MobFarm. All rights reserved.</rights>
+    <link rel="self" href="http://doc.fastpdfkit.com/docset.atom"></link>
+    <docset:publisherName>MobFarm</docset:publisherName>
+    <docset:publisherID>com.mobfarm</docset:publisherID>
+    <updated>2012-01-04T13:07:28+01:00</updated>
+    <entry>
+        <id>tag:doc.fastpdfkit.com,2012-01-04:com.mobfarm.fastpdfkit/3.1.3</id>
+        <title type="text">FastPdfKit</title>
+        <updated>2012-01-04T13:07:28+01:00</updated>
+        <content type="text">FastPdfKit (v3.1.3)</content>
+        <link rel="enclosure" type="application/octet-stream" href="http://doc.fastpdfkit.com/docset.xar" length="134254"></link>
+        <docset:identifier>com.mobfarm.fastpdfkit</docset:identifier>
+        <docset:version>3.1.3</docset:version>
+        <docset:minimumXcodeVersion>3.0.0</docset:minimumXcodeVersion>
+    </entry>
+</feed>

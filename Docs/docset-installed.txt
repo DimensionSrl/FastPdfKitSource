@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/matteo/Library/Developer/Shared/Documentation/DocSets/com.mobfarm.FastPdfKit.docset
+Time: 2012-01-04 12:07:28 +0000

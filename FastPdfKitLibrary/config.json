@@ -1,0 +1,20 @@
+ [
+  {
+  "page":[0],
+  "orientation":[2],
+  "zoom":1.0,
+  "mode":0,
+  "fitWidth": true,
+  "padding":0.0,
+  "shadow":false,
+  "sides":0.03,
+  "statusBar":1,
+  "annotationPadding":0
+  },{
+  "page":[11],
+  "zoom":3.0
+  },{
+  "page":[12],
+  "fitWidth": true
+  }
+]
